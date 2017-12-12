@@ -1,6 +1,5 @@
 package com.helpermonkey.solved;
-import java.lang.*;
-import java.util.*;
+import java.util.Scanner;
 
 public class Solution_Partition {
 	public static void main(String[] args) {

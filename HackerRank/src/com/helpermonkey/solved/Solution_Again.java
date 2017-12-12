@@ -1,9 +1,9 @@
 package com.helpermonkey.solved;
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.Scanner;
 
 public class Solution_Again {
 

@@ -1,6 +1,7 @@
 package com.helpermonkey.solved;
-import java.lang.*;
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
 
 public class Solution_CountingSort {
 	public static void main(String[] args) {

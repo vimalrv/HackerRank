@@ -3,8 +3,6 @@ package com.helpermonkey.algoeasy.strings;
 import java.math.BigInteger;
 import java.util.Arrays;
 import java.util.Scanner;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 public class TwoTwoFind {
 

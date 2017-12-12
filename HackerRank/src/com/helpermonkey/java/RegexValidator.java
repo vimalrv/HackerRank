@@ -1,7 +1,6 @@
 package com.helpermonkey.java;
 
 import java.util.Scanner;
-import java.util.regex.Pattern;
 
 class RegexValidator {
 
