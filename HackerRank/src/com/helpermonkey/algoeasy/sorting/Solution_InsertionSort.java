@@ -1,4 +1,4 @@
-package com.helpermonkey.solved;
+package com.helpermonkey.algoeasy.sorting;
 import java.util.Scanner;
 
 public class Solution_InsertionSort {

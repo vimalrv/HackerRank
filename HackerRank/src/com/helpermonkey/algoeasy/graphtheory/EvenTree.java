@@ -1,4 +1,4 @@
-package com.helpermonkey.algoeasy.implementation;
+package com.helpermonkey.algoeasy.graphtheory;
 
 import java.util.Scanner;
 import java.util.TreeSet;

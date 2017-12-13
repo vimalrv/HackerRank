@@ -1,4 +1,4 @@
-package com.helpermonkey.solved;
+package com.helpermonkey.algoeasy.gametheory;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;

@@ -1,7 +1,7 @@
-package com.helpermonkey.solved;
+package com.helpermonkey.algoeasy.search;
 import java.util.Scanner;
 
-public class Solution_Sherlock {
+public class Solution_SherlockAndArray {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);

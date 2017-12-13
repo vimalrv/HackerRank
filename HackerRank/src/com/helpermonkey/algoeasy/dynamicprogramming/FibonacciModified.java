@@ -1,9 +1,9 @@
-package com.helpermonkey.algoeasy.implementation;
+package com.helpermonkey.algoeasy.dynamicprogramming;
 
 import java.math.BigDecimal;
 import java.util.Scanner;
 
-public class FibonacciNew {
+public class FibonacciModified {
 
 	public static String findNewFibonacci(int t1, int t2, int tn) {
 		BigDecimal fi = new BigDecimal(""+t1);

@@ -1,9 +1,9 @@
-package com.helpermonkey.algoeasy.strings;
+package com.helpermonkey.algoeasy.search;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class IcreCream {
+public class IcreCreamParlor {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

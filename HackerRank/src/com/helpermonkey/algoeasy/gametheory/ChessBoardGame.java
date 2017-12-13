@@ -1,4 +1,4 @@
-package com.helpermonkey.algoeasy.implementation;
+package com.helpermonkey.algoeasy.gametheory;
 
 import java.util.Scanner;
 

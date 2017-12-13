@@ -1,21 +1,19 @@
-package com.helpermonkey.algoeasy.strings;
+package com.helpermonkey.algoeasy.gametheory;
 
 import java.util.Scanner;
 
-public class TowerBreakers {
+public class GameOfStones {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int t = in.nextInt();// no. of test cases
 		int n = 0;
-		int m = 0;
 		for (int i = 0; i < t; i++) {
 			n = in.nextInt();
-			m = in.nextInt();
-			if (m == 1 || n % 2 == 0) {
-				System.out.println("2");
+			if (n % 7 < 2) {
+				System.out.println("Second");
 			} else {
-				System.out.println("1");
+				System.out.println("First");
 			}
 		}
 

@@ -1,4 +1,4 @@
-package com.helpermonkey.algoeasy.strings;
+package com.helpermonkey.algoeasy.gametheory;
 
 import java.util.Scanner;
 

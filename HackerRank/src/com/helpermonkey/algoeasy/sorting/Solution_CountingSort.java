@@ -1,4 +1,4 @@
-package com.helpermonkey.solved;
+package com.helpermonkey.algoeasy.sorting;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
